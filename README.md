@@ -20,6 +20,16 @@ MTconthe Theme (MTT) is based on High Contrast theme
 COMING SOON!
 
 
+## Images
+! [full](ss_full.png)
+! [main](ss_maintab.png)
+! [search](ss_searchtab.png)
+! [sc](ss_sctab.png)
+! [rd](ss_rdtab.png)
+! [extension](ss_extensiontab.png)
+! [app](ss_appbar.png)
+! [down](ss_downbar.png)
+! [terminal](ss_terminal.png)
 
 ## INFORMATION
 Licensed with GPL-3.0.
