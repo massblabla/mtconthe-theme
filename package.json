@@ -1,0 +1,40 @@
+{
+    "name": "mtconthe-theme",
+    "displayName": "MTconthe Theme",
+    "description": "MTconthe Theme, Licensed with GNU General Public License v3.0 (GPL-3.0)",
+    "publisher": "MMABT",
+    "author": {
+        "name": "MMABT"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MMABT-devs/mtconthe-theme"
+    },
+    "galleryBanner": {
+        "color": "#72EE00",
+        "theme": "dark"
+    },
+    "icon": "icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "High Contrast",
+        "MT",
+        "MTconthe",
+        "MMABT"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MTconthe Theme",
+                "uiTheme": "hc-black",
+                "path": "./themes/MTconthe Theme-color-theme.json"
+            }
+        ]
+    }
+}
