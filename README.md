@@ -1,6 +1,7 @@
 # README
 Thanks to install or read this README file!
 MTconthe Theme (MTT) is based on High Contrast theme
+**WARN: THIS IS BASICALLY HIGH CONTRAST!**
 
 ## How to Install in Windows
 1. Install the VSIX file
